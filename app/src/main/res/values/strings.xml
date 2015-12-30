@@ -1,0 +1,18 @@
+<resources>
+    <!-- Strings used in app ui-->
+    <string name="app_name">HashTweet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello, </string>
+    <string name="login_instructions">Login to twiter</string>
+    <string name="share_instructions">Search here..</string>
+    <string name="btn_login">Login to Twitter</string>
+    <string name="btn_share">Search</string>
+
+    <!-- Twitter Configurations -->
+    <string name="twitter_callback">https://www.facebook.com/devprasan.mallick</string>
+    <string name="twitter_consumer_key">P7qDsVmeTLR183aYCJXmR1b42</string>
+    <string name="twitter_consumer_secret">DBL41tHzX9eZmtqn51HlTmbdECkJGEuJu1UaTzcHEL3Aee9YU9</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <!-- End Configurations -->
+</resources>
